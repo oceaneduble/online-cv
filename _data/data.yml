@@ -15,12 +15,12 @@ sidebar:
     email: oceane.ble@gmail.com
     phone: 
     website:  #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    linkedin: oceane-duble
+    github: oceaneduble
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -56,43 +56,30 @@ education:
       details: |
         
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Développeuse Front end
+      time: Juin 2019 - Septembre 2020
+      company: Cashstory
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        - Integration du site web et blog avec le framework NuxtJS
+        - Travail sur l’application web avec Angular 7, Typescript,, NodeJS, MongoDB
+        - Documentation du projet
+        - Conception de scripts d’automatisation Python 
+    - role: Développeuse Front end
+      time: Novembre 2018 - Juin 2019
+      company: Fairwai
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
+        - Refonte du design de l’application web avec Angular 5 et Ionic
+        - Ajout de nouvelles fonctionnalités
+        - Intégration du site web
+
+    - role: Stagiaire en développement web
       time: 2012 - 2014
       company: Amazon, London
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Stage de trois mois au sein de FairWai :
+        - Conception et maintenance de la MVP de l’application web avec les frameworks Angular 4 et Ionic
+        - Méthode agile (Scrum)
+
 projects:
     title: Projects
     intro: >
@@ -120,48 +107,32 @@ projects:
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
-
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: HTML5 & CSS
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: Javascript
         level: 98%
 
       - name: Angular
         level: 98%
 
-      - name: HTML5 & CSS
+      - name: VueJs
         level: 95%
 
-      - name: Ruby on Rails
+      - name: Git
         level: 85%
 
-      - name: Sketch & Photoshop
+      - name: SASS
+        level: 60%
+
+      - name: Node.js
+        level: 60%
+      
+      - name: Bootstrap
         level: 60%
 
 footer: >
